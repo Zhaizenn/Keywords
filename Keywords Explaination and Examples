@@ -1,0 +1,15 @@
+These are reserved for special purpose and must
+not be used as normal identifier names.
+
+Keywords are the reserved words in Python.
+We cannot use a keyword as a variable name,
+function name or any other identifier.
+
+They are used to define the syntax and structure
+of the Python language.
+
+In Python, keywords are case sensitive.
+
+All the keywords except True, False and None are
+in lowercase and they must be written as they
+are. 
